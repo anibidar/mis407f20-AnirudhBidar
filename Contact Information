@@ -1,0 +1,4 @@
+git --version
+git config --global user.name "Anirudh Bidar"
+git config --global user.email "anibidar@iastate.edu"
+git config --global --list
